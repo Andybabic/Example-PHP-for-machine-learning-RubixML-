@@ -2,7 +2,7 @@ Dieses Repository enthält ein Beispielprojekt zur Klassifizierung von Diabetes-
 
 Installation
 
-Clone the repository: git clone https://github.com/example/diabetes-classification-php.git
+Clone the repository: git clone github.com:Andybabic/Example-PHP-for-machine-learning-RubixML-.git
 Install dependencies: composer install
 Daten
 
