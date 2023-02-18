@@ -2,8 +2,18 @@ Dieses Repository enthält ein Beispielprojekt zur Klassifizierung von Diabetes-
 
 Installation
 
+
 Clone the repository: git clone github.com:Andybabic/Example-PHP-for-machine-learning-RubixML-.git
 Install dependencies: composer install
+
+Zunächst müssen Sie sicherstellen, dass Sie RubixML und Tensor in Ihrem PHP-Projekt installiert haben. Sie können dies tun, indem Sie die folgenden Befehle ausführen:
+
+composer require rubix/ml
+composer require rubix/tensor
+
+
+Als nächstes können Sie das folgende Beispiel ausführen, um den Diabetes-Datensatz zu laden, zu analysieren und eine Vorhersage zu treffen:
+
 Daten
 
 Der Datensatz enthält Informationen von 768 Frauen ab 21 Jahren, die auf Anzeichen von Diabetes untersucht wurden. Die verwendeten Variablen sind:
